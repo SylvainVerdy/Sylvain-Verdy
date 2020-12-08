@@ -1,6 +1,6 @@
 Hi, I'm Sylvain👋😍 
 
-<img align="left" alt="Shinichi Okada | Twitter" width="21px" src="https://www.ucl.ac.uk/iccs/sites/iccs/files/styles/large_image/public/climate-ml.png?itok=Y53ozZU0"/>
+<img align="left" alt="Shinichi Okada | Twitter" width="300px" src="https://www.ucl.ac.uk/iccs/sites/iccs/files/styles/large_image/public/climate-ml.png?itok=Y53ozZU0"/>
 <br />
 <br />
 
