@@ -16,7 +16,7 @@ Hi, I'm Sylvain👋😍
 <br/>
 <br/>
 <br/>
-:man_student: I'm a PhD Student
+:man_student: I'm a PhD Candidate
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SylvainVerdy&theme=highcontrast&show_icons=true&count_private=true)
