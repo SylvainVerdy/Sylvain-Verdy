@@ -1,4 +1,5 @@
 Hi, I'm Sylvain👋😍 
+:man_student: I'm a PhD Student in a first year, specialized in Speech Recognition 
 
 <img align="left" alt="Shinichi Okada | Twitter" width="600px" src="https://www.ucl.ac.uk/iccs/sites/iccs/files/styles/large_image/public/climate-ml.png?itok=Y53ozZU0"/>
 <br/>
@@ -16,7 +17,6 @@ Hi, I'm Sylvain👋😍
 <br/>
 <br/>
 <br/>
-:man_student: I'm a PhD Student in a first year, specialized in Speech Recognition 
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SylvainVerdy&theme=highcontrast&show_icons=true&count_private=true)
