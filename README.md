@@ -16,7 +16,7 @@ Hi, I'm Sylvain👋😍
 <br/>
 <br/>
 <br/>
-:man_student: I'm a PhD Candidate
+:man_student: I'm a PhD Student in a first year, specialized in Speech Recognition 
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SylvainVerdy&theme=highcontrast&show_icons=true&count_private=true)
