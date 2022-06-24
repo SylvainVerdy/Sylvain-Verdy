@@ -1,5 +1,5 @@
 Hi, I'm Sylvain👋😍 <br/>
-:man_student: I'm a PhD Student in a first year, specialized in Speech Recognition 
+:man_student: I'm a PhD Student in a first year, specialized in SLU, Speech to Intent task 
 
 <img align="left" alt="Shinichi Okada | Twitter" width="600px" src="https://www.ucl.ac.uk/iccs/sites/iccs/files/styles/large_image/public/climate-ml.png?itok=Y53ozZU0"/>
 <br/>
